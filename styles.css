@@ -41,7 +41,7 @@ body {
   align-items: center;
   width: 100vw;
   height: 100vh;
-  background-image: url(/images/pattern-background-mobile.svg);
+  background-image: url(./images/pattern-background-mobile.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -54,7 +54,7 @@ body {
 }
 
 .order-card__img {
-  background-image: url(/images/illustration-hero.svg);
+  background-image: url(./images/illustration-hero.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -139,7 +139,7 @@ body {
 
 @media only screen and (min-width: 1140px) {
   .main-container {
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(./images/pattern-background-desktop.svg);
     background-position: top;
     background-size: contain;
   }
